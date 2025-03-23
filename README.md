@@ -1,4 +1,4 @@
-# AI-Powered-Recommendation-System
+# AI-Powered-Movie-Recommendation-System
 
 Description
 This project is a Movie Recommendation System that allows users to filter and discover movies based on various criteria such as genre, actor, director, language, and rating. It also includes a content-based recommendation engine that suggests movies similar to a given title based on genre similarity. Built using Python and Pandas, this system is a great example of how data filtering and recommendation algorithms can be applied to real-world datasets.
